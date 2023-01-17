@@ -1,0 +1,16 @@
+{
+    "name": "ayarii/first-package",
+    "description": "this is a test package",
+    "authors": [
+        {
+            "name": "ayarii",
+            "email": "asma.ayari@esprit.tn"
+        }
+    ],
+    "require": {}
+    "autoload": {
+        "psr-4": {
+            "ayarii\\first-package\\": "src/"
+        }
+    },
+}
